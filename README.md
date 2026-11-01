@@ -2,6 +2,8 @@
 
 A console-based car rental management system developed using C++. This project provides customer rental services and an administrative dashboard with vehicle management, rental calculations, financial reports, and maintenance tracking.
 
+## Imp
+Currently the admin and the password are open-source
 ## Features
 
 ### Customer Portal
